@@ -15,4 +15,3 @@ Things you may want to cover:
   4. Run `ruby bin/setup`
 
 You'll see mails are opening in your default browser.
-
